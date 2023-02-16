@@ -1,0 +1,1 @@
+var text = "Lorem ispum dolor sit amen";
